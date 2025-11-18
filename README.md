@@ -9,3 +9,5 @@ https://www.printables.com/model/396692-einhell-battery-holder-v2
 Ketten Reinigungswerkzeug:
 https://www.printables.com/model/123026-bike-chain-cleaner-toothbrush-version
 
+Spraydosen Halterung: 
+https://www.printables.com/model/717605-spray-paint-can-wall-mount TODO: muss noch getestet werden
