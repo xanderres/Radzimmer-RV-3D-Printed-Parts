@@ -19,7 +19,7 @@ module marker() {
 module partA() {
     difference(){
         cylinder(h=hight, d=diameter, center=true);
-        cylinder(h=hight, d=5.2, center=true);
+        cylinder(h=hight, d=7.8, center=true);
         logo();
         marker();
         }
