@@ -11,3 +11,6 @@ https://www.printables.com/model/123026-bike-chain-cleaner-toothbrush-version
 
 Spraydosen Halterung: 
 https://www.printables.com/model/717605-spray-paint-can-wall-mount TODO: muss noch getestet werden
+
+Gridfinity Sammlung:
+https://makerworld.com/models/1709415?appSharePlatform=copy
